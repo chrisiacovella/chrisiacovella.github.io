@@ -3,14 +3,14 @@ remote_theme: ankitsultana/researcher@gem
 
 title: Christopher R. Iacovella
 url: "chrisiacovella.github.io"
-baseurl: "/docs/about.md"
+baseurl: "/docs/"
 
 nav:
  - name: "About"
-   link: "/docs/about.md"
+   link: "about.md"
  - name: "Resume"
-   link: "/docs/resume.md"
+   link: "resume.md"
  - name: "Publications"
-   link: "/docs/publications.md"
+   link: "publications.md"
  - name: "Projects"
-   link: "/docs/projects.md"
+   link: "projects.md"
