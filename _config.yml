@@ -1,14 +1,15 @@
 markdown: kramdown
-remote_theme: ankitsultana/researcher@gem
 
 title: Christopher R. Iacovella
 url: "chrisiacovella.github.io"
-baseurl: "/docs"
+baseurl: "/docs/"
 
 nav:
  - name: "About"
-   link: "/docs"
+   link: "about.md"
  - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+   link: "resume.md"
+ - name: "Publications"
+   link: "publications.md"
+ - name: "Projects"
+   link: "projects.md"
