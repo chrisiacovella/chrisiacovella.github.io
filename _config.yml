@@ -1,1 +1,18 @@
+markdown: kramdown
 remote_theme: ankitsultana/researcher@gem
+
+title: Christopher R. Iacovella
+url: "chrisiacovella.github.io"
+baseurl: "/home"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
