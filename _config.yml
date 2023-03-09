@@ -1,4 +1,5 @@
 markdown: kramdown
+remote_theme: ankitsultana/researcher
 
 title: Christopher R. Iacovella
 url: "chrisiacovella.github.io"
