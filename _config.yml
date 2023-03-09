@@ -9,6 +9,6 @@ nav:
  - name: "About"
    link: "/docs"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "/docs/resume.md"
  - name: "Contact"
    link: "contact"
